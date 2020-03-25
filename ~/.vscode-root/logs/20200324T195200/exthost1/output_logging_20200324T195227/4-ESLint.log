@@ -1,0 +1,35 @@
+[Info  - 7:52:32 PM] ESLint server stopped.
+[Info  - 7:52:33 PM] ESLint server running in node v10.2.0
+[Info  - 7:52:33 PM] ESLint server is running.
+[Info  - 7:52:34 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/docker-node-mongo-todo-app/toDoModel.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder docker-node-mongo-todo-app
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder docker-node-mongo-todo-app by executing the 'Disable ESLint' command.
+[Info  - 7:52:49 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/docker-node-mongo-todo-app/server.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder docker-node-mongo-todo-app
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder docker-node-mongo-todo-app by executing the 'Disable ESLint' command.
+[Info  - 7:54:09 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/docker-node-mongo-todo-app/server.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder docker-node-mongo-todo-app
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder docker-node-mongo-todo-app by executing the 'Disable ESLint' command.
+[Info  - 8:06:49 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/docker-node-mongo-todo-app/toDoModel.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder docker-node-mongo-todo-app
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder docker-node-mongo-todo-app by executing the 'Disable ESLint' command.
