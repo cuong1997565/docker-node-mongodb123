@@ -2,6 +2,7 @@
     "telemetry.machineId": "afc5ce7dad504a4107ee7a08e50681437105fc8b948a252278ca65ef15607503",
     "openedPathsList": {
         "workspaces3": [
+            "file:///var/www/nodejs/docker-node",
             "file:///var/www/nodejs/docker-node-mongo-todo-app"
         ],
         "files2": []
@@ -49,7 +50,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/var/www/nodejs/docker-node-mongo-todo-app",
+                                        "fsPath": "/var/www/nodejs/docker-node",
+                                        "external": "file:///var/www/nodejs/docker-node",
+                                        "path": "/var/www/nodejs/docker-node",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/var/www/nodejs/docker-node"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///var/www/nodejs/docker-node-mongo-todo-app",
                                         "path": "/var/www/nodejs/docker-node-mongo-todo-app",
                                         "scheme": "file"
