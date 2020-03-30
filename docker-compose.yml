@@ -12,4 +12,4 @@ services:
   mongo:
     image: "mongo"
     ports:
-      - "60017:60017"
+      - "27017:27017"

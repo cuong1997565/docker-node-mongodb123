@@ -25,3 +25,60 @@ or globally using 'npm install -g eslint'. You need to reopen the workspace afte
 
 If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
 Alternatively you can disable ESLint for the workspace folder docker-node by executing the 'Disable ESLint' command.
+[Info  - 7:23:05 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/docker-node/api/routes/products.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder docker-node
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder docker-node by executing the 'Disable ESLint' command.
+[Info  - 7:45:53 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/docker-node/toDoModel.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder docker-node
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder docker-node by executing the 'Disable ESLint' command.
+[Info  - 7:47:05 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/docker-node/toDoModel.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder docker-node
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder docker-node by executing the 'Disable ESLint' command.
+[Info  - 7:49:16 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/docker-node/toDoModel.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder docker-node
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder docker-node by executing the 'Disable ESLint' command.
+[Info  - 8:14:49 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/docker-node/api/models/products.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder docker-node
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder docker-node by executing the 'Disable ESLint' command.
+[Info  - 8:19:24 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/docker-node/toDoModel.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder docker-node
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder docker-node by executing the 'Disable ESLint' command.
+[Info  - 8:21:45 PM] 
+Failed to load the ESLint library for the document /var/www/nodejs/docker-node/server.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder docker-node
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder docker-node by executing the 'Disable ESLint' command.
+[Info  - 8:22:59 PM] ESLint server stopped.

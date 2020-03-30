@@ -1,3 +1,5 @@
 [2020-03-29 19:15:17.368] [main] [info] update#setState idle
 [2020-03-29 19:15:47.371] [main] [info] update#setState checking for updates
 [2020-03-29 19:15:47.585] [main] [info] update#setState available for download
+[2020-03-29 20:23:23.821] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: extensionsAssistant/recommendations Length: 340
+[2020-03-29 20:26:09.339] [main] [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?)). Details: Keys: extensionsAssistant/recommendations Length: 340
